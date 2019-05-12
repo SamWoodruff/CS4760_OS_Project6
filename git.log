@@ -1,0 +1,31 @@
+commit cc4fd8d4f5b487ddb4270cbf408280be8706a76f
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Thu May 9 12:43:42 2019 -0500
+
+    Added readme and broke insert into its own function
+
+commit f54a1a54086cc8166d30c5e24da85048f6929371
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat May 4 11:00:55 2019 -0500
+
+    Created function to insert page request from user into frame table
+
+commit b14aafe7809781603fd9436c921911496f4eace9
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Tue Apr 30 14:28:44 2019 -0500
+
+    User processes can now request,need to work on write
+    Did some refactoring in child process
+
+commit b20edbcb5f62f0eaca06d1322c5132270cbccf68
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Apr 29 16:25:37 2019 -0500
+
+    Set up system clock and fork/exec
+    of multiple children
+
+commit 4fcc30643cd02f512f9237a320e365f0947003ca
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Apr 29 10:15:01 2019 -0500
+
+    Set up messages queues/Shared memory
